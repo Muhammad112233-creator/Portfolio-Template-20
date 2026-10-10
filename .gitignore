@@ -1,0 +1,22 @@
+# Operating systems
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editors and workspace files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs and local environment
+*.log
+.env
+.env.*
+!.env.example
+
+# Optional build tooling (this template has no build step)
+node_modules/
+dist/
+build/
+coverage/
